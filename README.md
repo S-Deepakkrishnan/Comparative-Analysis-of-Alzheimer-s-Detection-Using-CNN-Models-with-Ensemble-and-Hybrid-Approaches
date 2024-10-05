@@ -111,8 +111,9 @@ For efficient training, a system with the following specifications is recommende
 To run the models and reproduce the results:
 1. Clone the repository:
    ```bash
-   git clone https://github.com/deepakkrishnanS/alzheimers-detection
-   cd alzheimers-detection
+   git clone https://github.com/S-Deepakkrishnan/Comparative-Analysis-of-Alzheimer-s-Detection-Using-CNN-Models-with-Ensemble-and-Hybrid-Approaches.git
+    cd Comparative-Analysis-of-Alzheimer-s-Detection-Using-CNN-Models-with-Ensemble-and-Hybrid-Approaches
+
    ```
 2. Set up the environment:
    ```bash
